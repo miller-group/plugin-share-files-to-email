@@ -49,5 +49,6 @@
         </config-file>
         <header-file src="src/ios/MMShare.h" />
         <source-file src="src/ios/MMShare.m" />
+        <framework src="MessageUI.framework" weak="true" />
     </platform>
 </plugin>
